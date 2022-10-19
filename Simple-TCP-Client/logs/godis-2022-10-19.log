@@ -1,0 +1,23 @@
+[INFO][server.go:38] 2022/10/19 18:03:40 start listen
+[INFO][server.go:50] 2022/10/19 18:03:57 shutting down
+[INFO][echo.go:71] 2022/10/19 18:03:57 handler shutting down
+[INFO][server.go:38] 2022/10/19 18:04:07 start listen
+[INFO][server.go:50] 2022/10/19 18:04:47 shutting down
+[INFO][echo.go:71] 2022/10/19 18:04:47 handler shutting down
+[INFO][server.go:38] 2022/10/19 19:03:26 start listen
+[INFO][server.go:50] 2022/10/19 19:05:20 shutting down
+[INFO][echo.go:71] 2022/10/19 19:05:20 handler shutting down
+[INFO][server.go:38] 2022/10/19 19:05:26 start listen
+[INFO][server.go:50] 2022/10/19 19:06:41 shutting down
+[INFO][echo.go:71] 2022/10/19 19:06:41 handler shutting down
+[INFO][server.go:38] 2022/10/19 19:06:53 start listen
+[INFO][server.go:68] 2022/10/19 19:08:40 accepted link
+[INFO][server.go:50] 2022/10/19 19:09:57 shutting down
+[INFO][echo.go:71] 2022/10/19 19:09:57 handler shutting down
+[WARN][echo.go:57] 2022/10/19 19:09:57 read tcp 127.0.0.1:6379->127.0.0.1:52451: use of closed network connection
+[INFO][echo.go:71] 2022/10/19 19:09:57 handler shutting down
+[INFO][server.go:38] 2022/10/19 19:22:25 start listen
+[INFO][server.go:68] 2022/10/19 19:22:36 accepted link
+[INFO][echo.go:54] 2022/10/19 19:39:13 Connection close
+[INFO][server.go:50] 2022/10/19 19:47:57 shutting down
+[INFO][echo.go:71] 2022/10/19 19:47:57 handler shutting down
